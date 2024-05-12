@@ -4,7 +4,7 @@ Running Kali Linux on VMware is an effective method to utilize advanced penetrat
 It provides a flexible and powerful environment for security testing and research without affecting your primary operating system.
 
 #kali
-kali can be run on different planforms.
+kali is a crossplatform and can be run on different planforms.
 example - raspberry pi,within usb.
 and also learned about how to open/run kali in both oracle VMware and VMware.
 
